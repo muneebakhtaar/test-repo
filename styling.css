@@ -1,0 +1,61 @@
+.white{
+  background-color: 	#ffffff;
+}
+.Pink{
+ background-color: #ef765b;
+}
+.Green{
+    background-color: 	#204234;
+
+}
+
+
+.Pink  h3{
+  color:beige;
+
+}
+.special{
+  margin-top: 45px;
+}
+.Pink p{
+  font-style: italic;
+  font-weight: bold;
+  font-size: medium;
+  color:beige;
+  font-family: monospace;
+}
+.mydiv{
+  border-radius: 7px;
+}
+
+.mydiv:hover { background-color:		#D8D8D8 }
+
+.Green  h2{
+  color:beige;
+
+}
+.Green p{
+  color: beige;
+font-family: monospace;
+font-size: 11px;
+font-weight: bold;
+
+}
+@media only screen  and (min-device-width: 1366px)  and (min-device-height: 768px){
+  .logo{
+    margin-top: 40px;
+    margin-left: 60px;
+
+    max-width: 35%;
+    max-height: 100px;
+  }
+  .Entrees{
+    margin-top: 100px;
+  }
+  .dishes{
+    margin-top: 40px;
+  }
+  .price{
+    margin-left: 28%;
+  }
+}
